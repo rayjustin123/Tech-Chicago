@@ -2413,7 +2413,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
+  background-color: #fff; /* # fff */
 }
 input,
 button,
@@ -3602,7 +3602,7 @@ tbody.collapse.in {
   font-weight: 500;
 }
 .header .nav a:hover {
-  color: #2F419A;
+  color: #ca1818;
 }
 .header .nav .menu-item-has-children,
 .header .nav .btn-group {
@@ -3610,7 +3610,7 @@ tbody.collapse.in {
 }
 .header .nav .menu-item-has-children.open .dropdown-toggle,
 .header .nav .btn-group.open .dropdown-toggle {
-  color: #2F419A;
+  color: #ca1818;
 }
 .header .nav .menu-item-has-children.open .dropdown-toggle::after,
 .header .nav .btn-group.open .dropdown-toggle::after {
@@ -3626,7 +3626,7 @@ tbody.collapse.in {
 }
 .header .nav .menu-item-has-children .dropdown-toggle:hover,
 .header .nav .btn-group .dropdown-toggle:hover {
-  color: #2F419A;
+  color: #ca1818;
 }
 .header .nav .menu-item-has-children .dropdown-toggle::after,
 .header .nav .btn-group .dropdown-toggle::after {
@@ -3905,8 +3905,8 @@ h2 {
 }
 .title-bg span {
   background-image: url(brush.png);
-  background-position: 50% 28px;
-  background-size: 200px 26px;
+  background-position: 60% center;
+  background-size: 700px 60px;
   background-repeat: no-repeat;
 }
 @media only screen and (max-width: 768px) {
@@ -3920,7 +3920,7 @@ h2 {
   justify-content: center;
   gap: 10px;
   border-radius: 5px;
-  background-color: #2F419A;
+  background-color: #ca1818;
   background-image: url(button1.png);
   background-position: center;
   background-size: cover;
@@ -3947,10 +3947,10 @@ h2 {
   gap: 8px;
   font-weight: 500;
   font-size: 14px;
-  color: #2F419A;
+  color: #ca1818;
 }
 .link:hover {
-  color: #2F419A;
+  color: #ca1818;
 }
 .link:hover img {
   transform: translate(4px, 0);
@@ -4128,7 +4128,7 @@ h2 {
   display: inline-block;
   font-weight: 700;
   font-size: 14px;
-  color: #2F419A;
+  color: #ca1818;
   text-transform: uppercase;
   margin: 0 0 32px;
 }
@@ -4183,8 +4183,8 @@ h2 {
   .filter-item
   input:checked
   + label {
-  border: 1px solid #2F419A;
-  background: #2F419A;
+  border: 1px solid #ca1818;
+  background: #ca1818;
   color: #000;
 }
 .hero-section .box .blog-box .categories .list .filter-item label {
@@ -4272,8 +4272,8 @@ h2 {
 }
 .hero-section .box .inner-info-box .category {
   border-radius: 6px;
-  border: 1px solid #2F419A;
-  background: #2F419A;
+  border: 1px solid #ca1818;
+  background: #ca1818;
   color: #000;
   padding: 6px 12px;
   font-weight: 500;
@@ -4425,7 +4425,7 @@ h2 {
 .full-width-hero-section .form-box form .input-row input:hover,
 .full-width-hero-section .form-box form .input-row textarea:focus,
 .full-width-hero-section .form-box form .input-row textarea:hover {
-  border-color: #2F419A;
+  border-color: #ca1818;
 }
 .full-width-hero-section .form-box form .input-row textarea {
   height: 90px;
@@ -5279,7 +5279,7 @@ span.wpcf7-spinner {
 .subscribe-section form .input-row input:focus,
 .subscribe-section form .input-row textarea:hover,
 .subscribe-section form .input-row textarea:focus {
-  border-color: #2F419A;
+  border-color: #ca1818;
 }
 .subscribe-section .form .input-row textarea,
 .subscribe-section form .input-row textarea {
@@ -5309,7 +5309,7 @@ span.wpcf7-spinner {
 }
 .subscribe-section .form .form-bottom .policty a,
 .subscribe-section form .form-bottom .policty a {
-  color: #2F419A;
+  color: #ca1818;
 }
 .case-study-hero {
   position: relative;
@@ -5341,7 +5341,7 @@ span.wpcf7-spinner {
 .case-study-hero .top-box .box .cat {
   font-weight: 700;
   font-weight: 14px;
-  color: #2F419A;
+  color: #ca1818;
   margin: 0 0 8px;
 }
 .case-study-hero .top-box .box h1 {
@@ -5807,8 +5807,8 @@ span.wpcf7-spinner {
   display: inline-flex;
   margin: 30px 0 0 0;
   border-radius: 6px;
-  border: 1px solid #2F419A;
-  background: #2F419A;
+  border: 1px solid #ca1818;
+  background: #ca1818;
   color: #000;
   padding: 6px 12px;
   font-weight: 500;
