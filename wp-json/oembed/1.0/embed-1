@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <oembed>
     <version>1.0</version>
-    <provider_name>TechProsNow</provider_name>
-    <provider_url>https://TechProsNow.io</provider_url>
+    <provider_name>Tech Chicago</provider_name>
+    <provider_url>https://Tech Chicago.io</provider_url>
     <title>Software Services - Leading Software Development Company</title>
     <type>rich</type>
     <width>600</width>
     <height>338</height>
     <html>&lt;blockquote class="wp-embedded-content" data-secret="71Y17DCD4I"&gt;&lt;a
-        href="https://TechProsNow.io/"&gt;Home&lt;/a&gt;&lt;/blockquote&gt;&lt;iframe
+        href="https://Tech Chicago.io/"&gt;Home&lt;/a&gt;&lt;/blockquote&gt;&lt;iframe
         sandbox="allow-scripts" security="restricted"
-        src="https://TechProsNow.io/embed/#?secret=71Y17DCD4I" width="600" height="338"
-        title="&#x201C;Home&#x201D; &#x2014; TechProsNow" data-secret="71Y17DCD4I" frameborder="0"
+        src="https://Tech Chicago.io/embed/#?secret=71Y17DCD4I" width="600" height="338"
+        title="&#x201C;Home&#x201D; &#x2014; Tech Chicago" data-secret="71Y17DCD4I" frameborder="0"
         marginwidth="0" marginheight="0" scrolling="no"
         class="wp-embedded-content"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;
         /* &lt;![CDATA[ */
@@ -28,6 +28,6 @@
         /* ]]&gt; */
         &lt;/script&gt;
     </html>
-    <description>TechProsNow is your go-to software development company for top-notch software
+    <description>Tech Chicago is your go-to software development company for top-notch software
         services, from programming to consultancy. Let's discuss your project today!</description>
 </oembed>
