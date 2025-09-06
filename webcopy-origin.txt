@@ -3642,11 +3642,11 @@ Uri: https://techquarter.io/wp-content/uploads/2025/05/cropped-image-2-180x180.j
 File Name: F:\Downloaded Web Sites\techquarter.io\wp-content\uploads\2025\05\cropped-image-2-180x180.jpg
 Content Type: image/jpeg
 
-Uri: https://techquarter.io/wp-content/uploads/2025/07/TechProsNowLogo.png
+Uri: https://techquarter.io/wp-content/uploads/2025/07/Tech -Chicago.png
 File Name: F:\Downloaded Web Sites\techquarter.io\wp-content\uploads\2025\05\cropped-image-2-192x192.jpg
 Content Type: image/jpeg
 
-Uri: https://techquarter.io/wp-content/uploads/2025/07/TechProsNowLogo.png
+Uri: https://techquarter.io/wp-content/uploads/2025/07/Tech -Chicago.png
 File Name: F:\Downloaded Web Sites\techquarter.io\wp-content\uploads\2025\05\cropped-image-2-32x32.jpg
 Content Type: image/jpeg
 
