@@ -1,0 +1,169 @@
+{
+  "id": 5867,
+  "date": "2025-06-01T21:11:07",
+  "date_gmt": "2025-06-01T21:11:07",
+  "guid": {
+    "rendered": "https://TechProsNow.io/?post_type=job&#038;p=5867"
+  },
+  "modified": "2025-06-01T21:11:08",
+  "modified_gmt": "2025-06-01T21:11:08",
+  "slug": "master-web-developer",
+  "status": "publish",
+  "type": "job",
+  "link": "https://TechProsNow.io/job/master-web-developer/",
+  "title": {
+    "rendered": "Master Web Developer"
+  },
+  "content": {
+    "rendered": "\n<p>test3</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>test3</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "template": "",
+  "Job-location": [
+    178
+  ],
+  "class_list": [
+    "post-5867",
+    "job",
+    "type-job",
+    "status-publish",
+    "hentry",
+    "Job-location-cluj-napoca"
+  ],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Master Web Developer - TechProsNow</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://TechProsNow.io/job/master-web-developer/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Master Web Developer - TechProsNow\" />\n<meta property=\"og:description\" content=\"test3\" />\n<meta property=\"og:url\" content=\"https://TechProsNow.io/job/master-web-developer/\" />\n<meta property=\"og:site_name\" content=\"TechProsNow\" />\n<meta property=\"article:modified_time\" content=\"2025-06-01T21:11:08+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://TechProsNow.io/job/master-web-developer/\",\"url\":\"https://TechProsNow.io/job/master-web-developer/\",\"name\":\"Master Web Developer - TechProsNow\",\"isPartOf\":{\"@id\":\"https://TechProsNow.io/#website\"},\"datePublished\":\"2025-06-01T21:11:07+00:00\",\"dateModified\":\"2025-06-01T21:11:08+00:00\",\"breadcrumb\":{\"@id\":\"https://TechProsNow.io/job/master-web-developer/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://TechProsNow.io/job/master-web-developer/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://TechProsNow.io/job/master-web-developer/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://TechProsNow.io/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Master Web Developer\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://TechProsNow.io/#website\",\"url\":\"https://TechProsNow.io/\",\"name\":\"TechProsNow\",\"description\":\"Tech Up Yout Game!\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://TechProsNow.io/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Master Web Developer - TechProsNow",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://TechProsNow.io/job/master-web-developer/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Master Web Developer - TechProsNow",
+    "og_description": "test3",
+    "og_url": "https://TechProsNow.io/job/master-web-developer/",
+    "og_site_name": "TechProsNow",
+    "article_modified_time": "2025-06-01T21:11:08+00:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://TechProsNow.io/job/master-web-developer/",
+          "url": "https://TechProsNow.io/job/master-web-developer/",
+          "name": "Master Web Developer - TechProsNow",
+          "isPartOf": {
+            "@id": "https://TechProsNow.io/#website"
+          },
+          "datePublished": "2025-06-01T21:11:07+00:00",
+          "dateModified": "2025-06-01T21:11:08+00:00",
+          "breadcrumb": {
+            "@id": "https://TechProsNow.io/job/master-web-developer/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://TechProsNow.io/job/master-web-developer/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://TechProsNow.io/job/master-web-developer/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://TechProsNow.io/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Master Web Developer"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://TechProsNow.io/#website",
+          "url": "https://TechProsNow.io/",
+          "name": "TechProsNow",
+          "description": "Tech Up Yout Game!",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://TechProsNow.io/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        }
+      ]
+    }
+  },
+  "acf": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/job/5867",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/job"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/types/job"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/media?parent=5867"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "Job-location",
+        "embeddable": true,
+        "href": "https://TechProsNow.io/wp-json/wp/v2/Job-location?post=5867"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

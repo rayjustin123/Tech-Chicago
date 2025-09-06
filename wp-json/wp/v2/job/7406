@@ -1,0 +1,174 @@
+{
+  "id": 7406,
+  "date": "2025-07-10T10:48:26",
+  "date_gmt": "2025-07-10T10:48:26",
+  "guid": {
+    "rendered": "https://TechProsNow.io/?post_type=job&#038;p=7406"
+  },
+  "modified": "2025-07-10T10:48:27",
+  "modified_gmt": "2025-07-10T10:48:27",
+  "slug": "senior-qa-automation-engineer",
+  "status": "publish",
+  "type": "job",
+  "link": "https://TechProsNow.io/job/senior-qa-automation-engineer/",
+  "title": {
+    "rendered": "Senior QA Automation Engineer"
+  },
+  "content": {
+    "rendered": "\n<h2 class=\"wp-block-heading\">ABOUT YOU:</h2>\n\n\n\n<p>We are seeking a detail-oriented Quality Assurance Automation Engineer who will help us test and build robust applications for our clients.</p>\n\n\n\n<p>As an automation engineer in an agile team, your primary responsibility will be to design and implement automated testing using Playwright. You will work closely with the team to develop a comprehensive test strategy to ensure that our products meet or exceed our quality standards. By executing automated tests, you will help us deliver high-quality products to our customers.</p>\n\n\n\n<p>We are looking for self-motivated individuals who can help us achieve ambitious product development goals that ensure proper interoperability between application and platform services and that they are built for scale, resilience, accuracy, and reliability. You will take responsibility for the software artifacts produced while adhering to high technical standards and best-in-class customer experience.</p>\n\n\n\n<h2 class=\"wp-block-heading\">IN THIS ROLE, YOU WILL:</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Design and develop automated tests using Playwright, Selenium, Cypress</li>\n\n\n\n<li>Develop and maintain automation testing frameworks       </li>\n\n\n\n<li>Review requirements and participate in architecture/design reviews with an emphasis on test automation strategy and enforcement of excellent coding standards     </li>\n\n\n\n<li>Collaborate with other members of the engineering team to find the best methods for solving problems in apps and systems </li>\n\n\n\n<li>Monitor and report on automation test results</li>\n\n\n\n<li>Analyse bug reports and highlight problems to help identify fixes for them   </li>\n\n\n\n<li>Deliver regular reports identifying bugs to other members of the engineering team     </li>\n\n\n\n<li>Perform code reviews and provide feedback to the other engineers     </li>\n\n\n\n<li>Troubleshoot and debug issues      </li>\n\n\n\n<li>Evaluate and implement new technologies as needed</li>\n\n\n\n<li>Advocate for a culture of quality throughout the development lifecycle, from design to deployment </li>\n\n\n\n<li>Provide insights and recommendations for improving overall product quality</li>\n\n\n\n<li>Create and maintain detailed documentation for automation solution test cases and processes </li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">YOU ARE A GREAT FIT IF YOU BRING THE FOLLOWING:</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Bachelor of Science in Engineering or Computer Science (or equivalent) is required</li>\n\n\n\n<li>5+ years of experience in Quality Assurance and/or Software Testing</li>\n\n\n\n<li>Expertise in JavaScript/TypeScript </li>\n\n\n\n<li>Expertise in API testing</li>\n\n\n\n<li>Extensive experience with multiple automation tools and frameworks, such as Playwright, Selenium, Cypress</li>\n\n\n\n<li>Prior experience in testing web application</li>\n\n\n\n<li>Strong knowledge of software QA methodologies, tool processes, and development cycles</li>\n\n\n\n<li>Experience working with CI/CD frameworks to integrate quality automation into build and release pipelines</li>\n\n\n\n<li>Strong analytical and debugging skills</li>\n\n\n\n<li>Ability to autonomously solve problems, as well as collaborate with direct and extended teams</li>\n\n\n\n<li>Experience working within an Agile environment</li>\n\n\n\n<li>Professional English level, strong verbal and written communication skills</li>\n\n\n\n<li>Extensive experience in testing APIs, using tools like Postman </li>\n</ul>\n\n\n\n<p></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>ABOUT YOU: We are seeking a detail-oriented Quality Assurance Automation Engineer who will help us test and build robust applications for our clients. As an automation engineer in an agile team, your primary responsibility will be to design and implement automated testing using Playwright. You will work closely with the team to develop a comprehensive [&hellip;]</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "template": "",
+  "Job-location": [
+    179
+  ],
+  "class_list": [
+    "post-7406",
+    "job",
+    "type-job",
+    "status-publish",
+    "hentry",
+    "Job-location-cluj-napoca-chisinau"
+  ],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>We&#039;re Hiring: Senior QA Automation Engineer - TechProsNow</title>\n<meta name=\"description\" content=\"Join us as a QA Automation Engineer to design robust Playwright tests, ensuring scalable, reliable, and high-quality software delivery.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://TechProsNow.io/job/senior-qa-automation-engineer/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"We&#039;re Hiring: Senior QA Automation Engineer - TechProsNow\" />\n<meta property=\"og:description\" content=\"Join us as a QA Automation Engineer to design robust Playwright tests, ensuring scalable, reliable, and high-quality software delivery.\" />\n<meta property=\"og:url\" content=\"https://TechProsNow.io/job/senior-qa-automation-engineer/\" />\n<meta property=\"og:site_name\" content=\"TechProsNow\" />\n<meta property=\"article:modified_time\" content=\"2025-07-10T10:48:27+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://TechProsNow.io/job/senior-qa-automation-engineer/\",\"url\":\"https://TechProsNow.io/job/senior-qa-automation-engineer/\",\"name\":\"We're Hiring: Senior QA Automation Engineer - TechProsNow\",\"isPartOf\":{\"@id\":\"https://TechProsNow.io/#website\"},\"datePublished\":\"2025-07-10T10:48:26+00:00\",\"dateModified\":\"2025-07-10T10:48:27+00:00\",\"description\":\"Join us as a QA Automation Engineer to design robust Playwright tests, ensuring scalable, reliable, and high-quality software delivery.\",\"breadcrumb\":{\"@id\":\"https://TechProsNow.io/job/senior-qa-automation-engineer/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://TechProsNow.io/job/senior-qa-automation-engineer/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://TechProsNow.io/job/senior-qa-automation-engineer/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://TechProsNow.io/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Senior QA Automation Engineer\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://TechProsNow.io/#website\",\"url\":\"https://TechProsNow.io/\",\"name\":\"TechProsNow\",\"description\":\"Tech Up Yout Game!\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://TechProsNow.io/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "We're Hiring: Senior QA Automation Engineer - TechProsNow",
+    "description": "Join us as a QA Automation Engineer to design robust Playwright tests, ensuring scalable, reliable, and high-quality software delivery.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://TechProsNow.io/job/senior-qa-automation-engineer/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "We're Hiring: Senior QA Automation Engineer - TechProsNow",
+    "og_description": "Join us as a QA Automation Engineer to design robust Playwright tests, ensuring scalable, reliable, and high-quality software delivery.",
+    "og_url": "https://TechProsNow.io/job/senior-qa-automation-engineer/",
+    "og_site_name": "TechProsNow",
+    "article_modified_time": "2025-07-10T10:48:27+00:00",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "Est. reading time": "2 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://TechProsNow.io/job/senior-qa-automation-engineer/",
+          "url": "https://TechProsNow.io/job/senior-qa-automation-engineer/",
+          "name": "We're Hiring: Senior QA Automation Engineer - TechProsNow",
+          "isPartOf": {
+            "@id": "https://TechProsNow.io/#website"
+          },
+          "datePublished": "2025-07-10T10:48:26+00:00",
+          "dateModified": "2025-07-10T10:48:27+00:00",
+          "description": "Join us as a QA Automation Engineer to design robust Playwright tests, ensuring scalable, reliable, and high-quality software delivery.",
+          "breadcrumb": {
+            "@id": "https://TechProsNow.io/job/senior-qa-automation-engineer/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://TechProsNow.io/job/senior-qa-automation-engineer/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://TechProsNow.io/job/senior-qa-automation-engineer/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://TechProsNow.io/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Senior QA Automation Engineer"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://TechProsNow.io/#website",
+          "url": "https://TechProsNow.io/",
+          "name": "TechProsNow",
+          "description": "Tech Up Yout Game!",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://TechProsNow.io/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        }
+      ]
+    }
+  },
+  "acf": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/job/7406",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/job"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/types/job"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/media?parent=7406"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "Job-location",
+        "embeddable": true,
+        "href": "https://TechProsNow.io/wp-json/wp/v2/Job-location?post=7406"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

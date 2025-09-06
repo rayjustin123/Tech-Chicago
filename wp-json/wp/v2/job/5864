@@ -1,0 +1,205 @@
+{
+  "id": 5864,
+  "date": "2025-05-28T20:59:31",
+  "date_gmt": "2025-05-28T20:59:31",
+  "guid": {
+    "rendered": "https://TechProsNow.io/?post_type=job&#038;p=5864"
+  },
+  "modified": "2025-06-01T21:05:49",
+  "modified_gmt": "2025-06-01T21:05:49",
+  "slug": "senior-web-developer-react",
+  "status": "publish",
+  "type": "job",
+  "link": "https://TechProsNow.io/job/senior-web-developer-react/",
+  "title": {
+    "rendered": "Senior Web Developer (React)"
+  },
+  "content": {
+    "rendered": "\n<h2 class=\"wp-block-heading\">About you</h2>\n\n\n\n<p>We are seeking an inventive Front-End Developer to join our team and help our clients power up their businesses through digital transformation. You will be responsible for the analysis, design, testing, development and maintenance of slick software experiences.</p>\n\n\n\n<p>We are looking for self-motivated individuals who can help us achieve ambitious product development goals that ensure proper interoperability between application and platform services built for scale, resilience, accuracy and reliability.</p>\n\n\n\n<p>You will take full responsibility of the software artifacts produced while adhering to high technical standards and building swift customer experience.</p>\n\n\n\n<h2 class=\"wp-block-heading\">In this Role, you will:</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Architect efficient and reusable front-end code systems that drive complex web applications (mobile friendly)</li>\n\n\n\n<li>Analyze and strategize to implement requirements and UX/UI interface designs</li>\n\n\n\n<li>Maintain and improve multiple projects simultaneously</li>\n\n\n\n<li>Collaborate with Product Owner, back-end Developers and Designers to improve usability</li>\n\n\n\n<li>Optimize application for maximum speed and scalability</li>\n\n\n\n<li>Provide deep software development knowledge with respect to front-end architecture, UX/UI design, and programming</li>\n\n\n\n<li>Delegate the work of others and provide guidance, direction and mentoring to indirect reports</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">We might be a great fit for if you bring the following:</h2>\n\n\n\n<ol class=\"wp-block-list\">\n<li>Architect efficient and reusable front-end code systems that drive complex web applications (mobile friendly)</li>\n\n\n\n<li>Analyze and strategize to implement requirements and UX/UI interface designs</li>\n\n\n\n<li>Maintain and improve multiple projects simultaneously</li>\n\n\n\n<li>Collaborate with Product Owner, back-end Developers and Designers to improve usability</li>\n\n\n\n<li>Optimize application for maximum speed and scalability</li>\n\n\n\n<li>Provide deep software development knowledge with respect to front-end architecture, UX/UI design, and programming</li>\n\n\n\n<li>Delegate the work of others and provide guidance, direction and mentoring to indirect reports</li>\n</ol>\n\n\n\n<h2 class=\"wp-block-heading\">About us</h2>\n\n\n\n<p>We’re a results-driven team of IT professionals with a knack for innovation and using the latest technologies to help enterprises achieve digital transformation. Our winning formula encompasses a holistic approach to software development, expert guidance, and a trusted partnership. Our mission is to help build cutting-edge software solutions specifically designed improve operational efficiency, increase productivity, help alleviate costs, and enhance customer experience.<a href=\"\" target=\"_blank\" rel=\"noreferrer noopener\"></a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>About you We are seeking an inventive Front-End Developer to join our team and help our clients power up their businesses through digital transformation. You will be responsible for the analysis, design, testing, development and maintenance of slick software experiences. We are looking for self-motivated individuals who can help us achieve ambitious product development goals [&hellip;]</p>\n",
+    "protected": false
+  },
+  "featured_media": 5865,
+  "parent": 0,
+  "menu_order": 0,
+  "template": "",
+  "Job-location": [
+    179,
+    178
+  ],
+  "class_list": [
+    "post-5864",
+    "job",
+    "type-job",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "Job-location-cluj-napoca-chisinau",
+    "Job-location-cluj-napoca"
+  ],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Senior Web Developer (React) - TechProsNow</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://TechProsNow.io/job/senior-web-developer-react/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Senior Web Developer (React) - TechProsNow\" />\n<meta property=\"og:description\" content=\"About you We are seeking an inventive Front-End Developer to join our team and help our clients power up their businesses through digital transformation. You will be responsible for the analysis, design, testing, development and maintenance of slick software experiences. We are looking for self-motivated individuals who can help us achieve ambitious product development goals [&hellip;]\" />\n<meta property=\"og:url\" content=\"https://TechProsNow.io/job/senior-web-developer-react/\" />\n<meta property=\"og:site_name\" content=\"TechProsNow\" />\n<meta property=\"article:modified_time\" content=\"2025-06-01T21:05:49+00:00\" />\n<meta property=\"og:image\" content=\"https://TechProsNow.io/wp-content/uploads/2025/06/Mask-group.jpg\" />\n\t<meta property=\"og:image:width\" content=\"516\" />\n\t<meta property=\"og:image:height\" content=\"400\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://TechProsNow.io/job/senior-web-developer-react/\",\"url\":\"https://TechProsNow.io/job/senior-web-developer-react/\",\"name\":\"Senior Web Developer (React) - TechProsNow\",\"isPartOf\":{\"@id\":\"https://TechProsNow.io/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://TechProsNow.io/job/senior-web-developer-react/#primaryimage\"},\"image\":{\"@id\":\"https://TechProsNow.io/job/senior-web-developer-react/#primaryimage\"},\"thumbnailUrl\":\"https://TechProsNow.io/wp-content/uploads/2025/06/Mask-group.jpg\",\"datePublished\":\"2025-05-28T20:59:31+00:00\",\"dateModified\":\"2025-06-01T21:05:49+00:00\",\"breadcrumb\":{\"@id\":\"https://TechProsNow.io/job/senior-web-developer-react/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://TechProsNow.io/job/senior-web-developer-react/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://TechProsNow.io/job/senior-web-developer-react/#primaryimage\",\"url\":\"https://TechProsNow.io/wp-content/uploads/2025/06/Mask-group.jpg\",\"contentUrl\":\"https://TechProsNow.io/wp-content/uploads/2025/06/Mask-group.jpg\",\"width\":516,\"height\":400},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://TechProsNow.io/job/senior-web-developer-react/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://TechProsNow.io/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Senior Web Developer (React)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://TechProsNow.io/#website\",\"url\":\"https://TechProsNow.io/\",\"name\":\"TechProsNow\",\"description\":\"Tech Up Yout Game!\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://TechProsNow.io/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Senior Web Developer (React) - TechProsNow",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://TechProsNow.io/job/senior-web-developer-react/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Senior Web Developer (React) - TechProsNow",
+    "og_description": "About you We are seeking an inventive Front-End Developer to join our team and help our clients power up their businesses through digital transformation. You will be responsible for the analysis, design, testing, development and maintenance of slick software experiences. We are looking for self-motivated individuals who can help us achieve ambitious product development goals [&hellip;]",
+    "og_url": "https://TechProsNow.io/job/senior-web-developer-react/",
+    "og_site_name": "TechProsNow",
+    "article_modified_time": "2025-06-01T21:05:49+00:00",
+    "og_image": [
+      {
+        "width": 516,
+        "height": 400,
+        "url": "https://TechProsNow.io/wp-content/uploads/2025/06/Mask-group.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "Est. reading time": "2 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://TechProsNow.io/job/senior-web-developer-react/",
+          "url": "https://TechProsNow.io/job/senior-web-developer-react/",
+          "name": "Senior Web Developer (React) - TechProsNow",
+          "isPartOf": {
+            "@id": "https://TechProsNow.io/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://TechProsNow.io/job/senior-web-developer-react/#primaryimage"
+          },
+          "image": {
+            "@id": "https://TechProsNow.io/job/senior-web-developer-react/#primaryimage"
+          },
+          "thumbnailUrl": "https://TechProsNow.io/wp-content/uploads/2025/06/Mask-group.jpg",
+          "datePublished": "2025-05-28T20:59:31+00:00",
+          "dateModified": "2025-06-01T21:05:49+00:00",
+          "breadcrumb": {
+            "@id": "https://TechProsNow.io/job/senior-web-developer-react/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://TechProsNow.io/job/senior-web-developer-react/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "https://TechProsNow.io/job/senior-web-developer-react/#primaryimage",
+          "url": "https://TechProsNow.io/wp-content/uploads/2025/06/Mask-group.jpg",
+          "contentUrl": "https://TechProsNow.io/wp-content/uploads/2025/06/Mask-group.jpg",
+          "width": 516,
+          "height": 400
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://TechProsNow.io/job/senior-web-developer-react/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://TechProsNow.io/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Senior Web Developer (React)"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://TechProsNow.io/#website",
+          "url": "https://TechProsNow.io/",
+          "name": "TechProsNow",
+          "description": "Tech Up Yout Game!",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://TechProsNow.io/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        }
+      ]
+    }
+  },
+  "acf": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/job/5864",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/job"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/types/job"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://TechProsNow.io/wp-json/wp/v2/media/5865"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://TechProsNow.io/wp-json/wp/v2/media?parent=5864"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "Job-location",
+        "embeddable": true,
+        "href": "https://TechProsNow.io/wp-json/wp/v2/Job-location?post=5864"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+/*
+Theme Name:         ESC Info
+Theme URI:          *
+Description:        *.
+Version:            1.0.58
+Author:             valik945
+Author URI:         valik945
+*/
+
+.grecaptcha-badge {
+    position: absolute;
+    visibility: hidden;
+    z-index: -99999;
+    left: 0;
+}
