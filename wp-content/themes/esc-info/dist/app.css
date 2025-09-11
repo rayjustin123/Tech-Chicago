@@ -5160,13 +5160,14 @@ span.wpcf7-spinner {
 }
 .subscribe-section {
   padding: 440px 0 100px;
-  background: url(last_section_bg.png),
+  background: url(last_section_bg.jpg),
   linear-gradient(144deg, #1a1d22 0%, #2f3744 76.85%);
   background-repeat: no-repeat;
   background-position: center;
   color: #fff;
    background-size: cover;
 }
+
 @media only screen and (max-width: 768px) {
   .subscribe-section {
     padding: 71% 0 60px;
